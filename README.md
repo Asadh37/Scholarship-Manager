@@ -1,2 +1,2 @@
 # Scholarship-Manager
-A Simple Project Built Using VITE Configurations To Showcase My Web Development SKILLS
+A web development project built with Vite, designed to demonstrate my skills and expertise
